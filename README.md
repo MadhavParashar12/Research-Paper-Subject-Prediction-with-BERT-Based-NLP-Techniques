@@ -1,4 +1,4 @@
-# BERT-prediction-model-NLP
+# Research-Paper-Subject-Prediction-with-BERT-Based-NLP-Techniques
 ### Introduction
 The Research Paper Subject Prediction project is an innovative application of Natural Language Processing (NLP) techniques to assist researchers, academics, and institutions in automatically categorizing research papers into specific subjects based on their summaries. This project harnesses the power of BERT (Bidirectional Encoder Representations from Transformers) embeddings to extract rich features from paper summaries and predict their subject categories accurately.
 
